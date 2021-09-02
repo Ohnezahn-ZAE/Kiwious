@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋 Hi there
+
+- 🔭 I’m currently working on a Discord Bot
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: Add me on Discord: `Kiwious#2022`
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like kiwis
+
+### 💬 Contact me
+![](https://discord.c99.nl/widget/theme-4/733403498766401554.png)
 
 <!--
 **Kiwious/Kiwious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
