@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a  Discord Bot in Python
 - 🌱 I’m currently learning Typescript and Javascript
-- 📫 How to reach me: Add me on Discord: `Kiwious#1234`
+- 📫 How to reach me: Add me on Discord: `Kiwious#3200`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like kiwis
 
