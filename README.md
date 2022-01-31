@@ -7,7 +7,7 @@
 - ⚡ Fun fact: i like kiwis
 
 ### 💬 Contact me
-![](https://discord.c99.nl/widget/theme-4/733403498766401554.png)
+![](https://discord.c99.nl/widget/theme-3/705557092802625576.png)
 
 ### 🗂️ GitHub Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwious&show_icons=true&theme=discord_old_blurple)
